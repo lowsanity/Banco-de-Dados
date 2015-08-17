@@ -1,0 +1,9 @@
+SGBD - Gerencia o acesso ao banco de dados.
+SQL - Linguagem de consulta	Desenvolvida pela IBM, inicio dos anos 70
+DDL - Define dados, CREATE, ALTER, DROP
+DML - Gerencia os dados, INSERT, UPDATE, DELETE
+DQL - Linguagem de Consult, SELECT, GROUP, ORDER, 
+DCL - Linguagem de controle de dados,  GRANT, REVOKE
+DTL -  Linguagem de Transação de dados, BEGIN(START), COMMIT, ROLLBACK
+Chave Composta - 2 ou mais campos
+FK - Campo usado somente para referencia
